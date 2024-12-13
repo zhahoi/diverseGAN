@@ -21,6 +21,14 @@ The dataset should be placed in the following format:
 
 ![data_format](https://github.com/zhahoi/diverseGAN/blob/main/docs/data_format.png)
 
+
+
+### Pretrained weights
+
+You can download the pretrained weights from the following link:https://mega.nz/folder/V2IXAbqR#OHykt_z6PGD641dt8Em3Kw
+
+
+
 ## Training
 
 ```bash

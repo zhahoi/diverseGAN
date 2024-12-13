@@ -19,9 +19,7 @@ The anime image dataset used in this repository comes from Kaggle. You can downl
 
 The dataset should be placed in the following format:
 
-![data_format](https://github.com/zhahoi/diverseGAN/tree/main/docs/data_format.png)
-
-
+![data_format](https://github.com/zhahoi/diverseGAN/blob/main/docs/data_format.png)
 
 ## Training
 
@@ -119,37 +117,35 @@ You can run `onlineDemo.py` to open a UI where you can upload the sketch image t
 
 You need to open the following URL in your browser:
 
-![img1](https://github.com/zhahoi/diverseGAN/tree/main/docs/img1.png)
+![img1](https://github.com/zhahoi/diverseGAN/blob/main/docs/img1.png)
 
-![img2](https://github.com/zhahoi/diverseGAN/tree/main/docs/img2.png)
+![img2](https://github.com/zhahoi/diverseGAN/blob/main/docs/img2.png)
 
 ## Reference Results
 
-![random_100_0](https://github.com/zhahoi/diverseGAN/tree/main/results/test/random_100_0.png)
+![random_100_0](https://github.com/zhahoi/diverseGAN/blob/main/results/test/random_100_0.png)
 
-![image_1](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_1.png)
+![image_1](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_1.png)
 
-![image_2](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_2.png)
+![image_2](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_2.png)
 
-![image_3](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_3.png)
+![image_3](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_3.png)
 
-![image_4](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_4.png)
+![image_4](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_4.png)
 
-![image_5](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_5.png)
+![image_5](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_5.png)
 
-![image_6](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_6.png)
+![image_6](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_6.png)
 
-![image_7](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_7.png)
+![image_7](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_7.png)
 
-![image_8](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_8.png)
+![image_8](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_8.png)
 
-![image_9](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_9.png)
+![image_9](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_9.png)
 
-![image_10](https://github.com/zhahoi/diverseGAN/tree/main/docs/image_10.png)
+![image_10](https://github.com/zhahoi/diverseGAN/blob/main/docs/image_10.png)
 
-![image](https://github.com/zhahoi/diverseGAN/tree/main/docs/image.png)
-
-
+![image](https://github.com/zhahoi/diverseGAN/blob/main/docs/image.png)
 
 
 

@@ -19,7 +19,7 @@ The anime image dataset used in this repository comes from Kaggle. You can downl
 
 The dataset should be placed in the following format:
 
-![data_format](docs\data_format.png)
+![data_format](https://github.com/zhahoi/diverseGAN/tree/main/docs/data_format.png)
 
 
 
@@ -119,35 +119,35 @@ You can run `onlineDemo.py` to open a UI where you can upload the sketch image t
 
 You need to open the following URL in your browser:
 
-![img1](docs\img1.png)
+![img1](https://github.com/zhahoi/diverseGAN/tree/main/docs/img1.png)
 
-![img2](docs\img2.png)
+![img2](https://github.com/zhahoi/diverseGAN/tree/main/docs/img2.png)
 
 ## Reference Results
 
-![random_100_0](results\test\random_100_0.png)
+![random_100_0](https://github.com/zhahoi/diverseGAN/tree/main/results/test/random_100_0.png)
 
-![image (1)](docs\image (1).png)
+![image (1)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (1).png)
 
-![image (2)](docs\image (2).png)
+![image (2)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (2).png)
 
-![image (3)](docs\image (3).png)
+![image (3)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (3).png)
 
-![image (4)](docs\image (4).png)
+![image (4)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (4).png)
 
-![image (5)](docs\image (5).png)
+![image (5)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (5).png)
 
-![image (6)](docs\image (6).png)
+![image (6)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (6).png)
 
-![image (7)](docs\image (7).png)
+![image (7)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (7).png)
 
-![image (8)](docs\image (8).png)
+![image (8)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (8).png)
 
-![image (9)](docs\image (9).png)
+![image (9)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (9).png)
 
-![image (10)](docs\image (10).png)
+![image (10)](https://github.com/zhahoi/diverseGAN/tree/main/docs/image (10).png)
 
-![image](docs\image.png)
+![image](https://github.com/zhahoi/diverseGAN/tree/main/docs/image.png)
 
 
 

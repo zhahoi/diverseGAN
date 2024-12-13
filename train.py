@@ -66,7 +66,7 @@ if __name__ == '__main__':
                         help='Dimension of z')
     parser.add_argument('--num_epoch', type=int, default=100, 
                         help='Number of epoch')
-    parser.add_argument('--save_every', type=int, default=10000,
+    parser.add_argument('--save_every', type=int, default=200,
                         help='How often do you want to see the result?')
     parser.add_argument('--save_epoch', type=int, default=5,
                         help='How often do you want to save the weight?')

@@ -127,27 +127,27 @@ You need to open the following URL in your browser:
 
 ![random_100_0](results\test\random_100_0.png)
 
-![image (1)](C:\GithubCode\diverseGAN\docs\image (1).png)
+![image (1)](docs\image (1).png)
 
-![image (2)](C:\GithubCode\diverseGAN\docs\image (2).png)
+![image (2)](docs\image (2).png)
 
-![image (3)](C:\GithubCode\diverseGAN\docs\image (3).png)
+![image (3)](docs\image (3).png)
 
-![image (4)](C:\GithubCode\diverseGAN\docs\image (4).png)
+![image (4)](docs\image (4).png)
 
-![image (5)](C:\GithubCode\diverseGAN\docs\image (5).png)
+![image (5)](docs\image (5).png)
 
-![image (6)](C:\GithubCode\diverseGAN\docs\image (6).png)
+![image (6)](docs\image (6).png)
 
-![image (7)](C:\GithubCode\diverseGAN\docs\image (7).png)
+![image (7)](docs\image (7).png)
 
-![image (8)](C:\GithubCode\diverseGAN\docs\image (8).png)
+![image (8)](docs\image (8).png)
 
-![image (9)](C:\GithubCode\diverseGAN\docs\image (9).png)
+![image (9)](docs\image (9).png)
 
-![image (10)](C:\GithubCode\diverseGAN\docs\image (10).png)
+![image (10)](docs\image (10).png)
 
-![image](C:\GithubCode\diverseGAN\docs\image.png)
+![image](docs\image.png)
 
 
 
